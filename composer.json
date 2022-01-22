@@ -1,0 +1,12 @@
+{
+    "name": "natox/natox-core",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "celionatti",
+            "email": "amisuusman@gmail.com"
+        }
+    ],
+    "require": {}
+}
